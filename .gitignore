@@ -1,0 +1,8 @@
+__pycache__/
+*.py[cod]
+.venv/
+outputs/*
+!outputs/.gitkeep
+.gradio/
+.env
+!sample_image/ICLprompt.png
